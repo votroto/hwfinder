@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.0
+Name=HWFinder
+Comment=Find HWGroup devices
+Exec=/opt/hwfinder/run.sh
+Path=/opt/hwfinder/
+Terminal=false
+Type=Application
+Categories=Utility;Application;
