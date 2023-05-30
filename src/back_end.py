@@ -1,3 +1,5 @@
+import os
+
 from GioAsyncSubprocess import AsyncSubprocess
 
 
